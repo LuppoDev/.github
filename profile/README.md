@@ -67,13 +67,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=LuppoTalpa&theme=tokyonight&hide_border=false">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuppoTalpa&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=LuppoDev&theme=tokyonight&hide_border=false">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuppoDev&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuppoTalpa&theme=tokyonight"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuppoTalpa&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuppoDev&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuppoDev&theme=tokyonight"/>
 </p>
 
 ---
