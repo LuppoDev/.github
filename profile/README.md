@@ -4,14 +4,14 @@
 
 <p align="center">
   <a href="https://github.com/Endless-Team"><img src="https://img.shields.io/badge/Endless%20Team-Member-6C63FF?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:luppialessandro@istitutocorni.it"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:alessandroluppi08@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://discord.com/users/697395013994414093"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://instagram.com/adviceale"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LuppoDev&color=6C63FF&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/LuppoDev?label=Followers&style=flat-square&color=6C63FF" />
+  <img src="https://img.shields.io/github/followers/Talpa?label=Followers&style=flat-square&color=6C63FF" />
   <img src="https://img.shields.io/github/stars/LuppoDev?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=FFD700" />
 </p>
 
