@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LuppoDev&color=6C63FF&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Talpa?label=Followers&style=flat-square&color=6C63FF" />
+  <img src="https://img.shields.io/github/followers/LuppoDev?label=Followers&style=flat-square&color=6C63FF" />
   <img src="https://img.shields.io/github/stars/LuppoDev?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=FFD700" />
 </p>
 
