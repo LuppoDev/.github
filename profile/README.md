@@ -99,5 +99,5 @@
 
 <p align="center">
   <i>✨ "Always building something new." ✨</i><br/><br/>
-  <b>Made with 💙 by <a href="https://github.com/LuppoTalpa">LuppoTalpa</a></b>
+  <b>Made with 💙 by <a href="https://github.com/LuppoDev">LuppoDev</a></b>
 </p>
