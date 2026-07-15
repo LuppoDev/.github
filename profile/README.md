@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LuppoTalpa&color=6C63FF&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/LuppoTalpa?label=Followers&style=flat-square&color=6C63FF" />
-  <img src="https://img.shields.io/github/stars/LuppoTalpa?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=FFD700" />
+  <img src="https://komarev.com/ghpvc/?username=LuppoDev&color=6C63FF&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/LuppoDev?label=Followers&style=flat-square&color=6C63FF" />
+  <img src="https://img.shields.io/github/stars/LuppoDev?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=FFD700" />
 </p>
 
 ---
@@ -82,17 +82,17 @@
 
 | Repository                                                   | Descrizione                          | Stack               | Stars |
 | ------------------------------------------------------------ | ------------------------------------ | ------------------- | ----- |
-| [**Informatica**](https://github.com/LuppoTalpa/Informatica) | Algoritmi e programmi scolastici     | Java, C++, Python   | ⭐ 3  |
-| [**TEPSIT**](https://github.com/LuppoTalpa/TEPSIT)           | Sviluppo web e interfacce UI         | HTML, CSS, JS       | ⭐ 2  |
-| [**Sistemi**](https://github.com/LuppoTalpa/Sistemi)         | Configurazione reti e infrastrutture | Cisco Packet Tracer | ⭐ 1  |
-| [**Appunti**](https://github.com/LuppoTalpa/Appunti)         | Note e materiale scolastico          | TypeScript          | ⭐ 1  |
+| [**Informatica**](https://github.com/LuppoDev/Informatica)   | Algoritmi e programmi scolastici     | Java, C++, Python   | ⭐ 3  |
+| [**TEPSIT**](https://github.com/LuppoDev/TEPSIT)             | Sviluppo web e interfacce UI         | HTML, CSS, JS       | ⭐ 2  |
+| [**Sistemi**](https://github.com/LuppoDev/Sistemi)           | Configurazione reti e infrastrutture | Cisco Packet Tracer | ⭐ 1  |
+| [**Appunti**](https://github.com/LuppoDev/Appunti)           | Note e materiale scolastico          | TypeScript          | ⭐ 1  |
 
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LuppoTalpa/LuppoTalpa/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/LuppoDev/LuppoDev/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
